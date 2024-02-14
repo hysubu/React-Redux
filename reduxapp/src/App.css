@@ -37,3 +37,42 @@
   }
 }
 
+
+.quantity{
+  margin-left: 30%;
+  margin-top: 7%;
+  
+
+  >.quantity_minus {
+    padding: 10px;
+    background-color: rgb(141, 135, 135);
+    /* border: 0.5px solid black;
+    border-radius: 10px; */
+    color: rgb(211, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+
+  }
+  > .quantity_plus{
+    padding: 10px;
+    background-color: rgb(122, 132, 132);
+    /* border: 0.5px solid black; */
+    /* border-radius: 10px; */
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+
+
+    
+  }
+  .quantity_input{
+    width: 40px;
+    padding: 10px;
+    font-size: 19px;
+    border: 3px solid rgb(120, 118, 118);
+
+    
+  }
+
+}
